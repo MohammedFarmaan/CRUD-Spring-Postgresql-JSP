@@ -1,1 +1,1 @@
-# Simple Crud Operations using Swing and PostgreSQL and JSP
+# Simple Crud Operations on Swing JDBC using PostgreSQL and JSP
